@@ -59,8 +59,10 @@ In the date we can see that c52 median is higher then c39 by 13.5, and the min o
 ```{r}
 t.test(VitC~Cult,data=veggy)
 ```
-The chances of these results would be .00000003405 if there was no difference between these two groups.The mean in c39 and the mean in c52 is 64.4
+The chances of these results would be .000000003405 if there was no difference between these two groups.The mean in c39 and the mean in c52 is 64.4
 
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+In conclusion in the box plot we can see there is a difference between c39 and c52, it shows us that the c39 top box is on the third quartile, and the c52 is on the 50 percentile. by looking at c39 its  median line is lower and c52 median is higher by 13.5 percent. There fore as we look at the t-test we get a result of .000000003405 showing us their is a very small difference between these two groups.
