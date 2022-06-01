@@ -50,7 +50,7 @@ Looking at the VitC and the Cult we can see there is a big difference. The media
 favstats(VitC~Cult,data=veggy)
 ```
 
-In the date we can see that c52 median is higher then c39 by 13.5, and the min of c52 is also higher then c39 by 6min. By looking at the graph we can see that the two boxes of c52 is higher then the boxes of c39. The top box on c39 on the is on the third quarter tile, and the two boxes of c52 are exactly the same tile.
+In the date we can see that c52 median is higher then c39 by 13.5, and the min of c52 is also higher then c39 by 6min. By looking at the graph we can see that the two boxes of c52 is higher then the boxes of c39. The top box on c39 on the is on the third quartile, and the two boxes of c52 are exactly the same, this shows us that c39 and c52 boxes will not bump in to each other if they were aligned on the same column because of their size. 
 
 ## Inferential Results
 
